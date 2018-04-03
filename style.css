@@ -1,0 +1,10 @@
+html, body {
+  margin: 0px;
+  font-family: 'Frijole', cursive;
+}
+
+p {
+  margin-top: 300px;
+  font-size: 64px;
+  text-align: center;
+}

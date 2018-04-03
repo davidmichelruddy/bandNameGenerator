@@ -1,0 +1,41 @@
+{
+	"<start>": [
+		"<5-line> </br> <7-line> </br> <5-line>"
+	],
+	"<5-line>": [
+		"<1> <4>",
+		"<1> <3> <1>",
+		"<1> <1> <3>",
+		"<1> <2> <2>",
+		"<1> <2> <1> <1>",
+		"<1> <1> <2> <1>",
+		"<1> <1> <1> <2>",
+		"<1> <1> <1> <1> <1>",
+		"<2> <3>",
+		"<2> <2> <1>",
+		"<2> <1> <2>",
+		"<2> <1> <1> <1>",
+		"<3> <2>",
+		"<3> <1> <1>",
+		"<4> <1>",
+		"<5>"
+	],
+	"<7-line>": [
+		"<1> <1> <5-line>", "<2> <5-line>", "<5-line> <1> <1>", "<5-line> <2>"
+	],
+	"<1>": [
+		"red", "white", "black", "sky", "dawns", "breaks", "falls", "leaf", "rain", "pool", "my", "your", "sun", "clouds", "blue", "green", "night", "day", "dawn", "dusk", "birds", "fly", "grass", "tree", "branch", "through", "hell", "zen", "smile", "gray", "wave", "sea", "through", "sound", "mind", "smoke", "cranes", "fish", "bass", "fault", "firm", "plea", "rhyme", "rhyme", "ode", "age", "sash", "health", "eye", "maid", "hooch", "vise", "rite", "press", "fig", "boss", "angst", "reed", "bud", "bet", "ditch", "cup", "pest", "ip", "reed", "job", "ounce", "junk", "girth", "part", "claim", "lounge", "veil", "eye", "loss", "gleam", "hare", "quack", "sense", "test", "oil", "hike", "hank", "sort", "thatch", "eave", "spy", "shrimp", "con", "raft", "swig", "stilt", "dance", "warmth", "bib", "pause", "press", "aisle", "course", "fir", "hut", "glen", "drug", "dusk", "squash", "sort", "suds", "inch", "cook", "pill", "lane", "curd", "health", "drain", "dart", "ace", "suds", "ode", "hitch", "stone", "eye", "yacht", "trip", "juice", "urn", "broil", "fate", "end", "fool", "park", "urn", "ant", "oil", "angst", "spill", "plea", "mash", "fork"
+	],
+	"<2>": [
+		"drifting", "purple", "mountains", "skyline", "city", "faces", "peaches", "hotdog", "ointment", "vial", "emblem", "rowing", "culture", "income", "detente", "fryer", "groundwork", "wrinkle", "quota", "stumpage", "larkspur", "jockey", "dimmer", "squirrel", "cervix", "cultist", "grader", "receipt", "contempt", "frontier", "peso", "pirate", "sawdust", "receipt", "undress", "iceberg", "aster", "creamer", "wrinkle", "roadblock", "assault", "cactus", "ballpark", "default", "hanger", "countdown", "revenge", "conflict", "goatee", "crabmeat", "union", "constraint", "countess", "propane", "logger", "marriage", "threesome", "tactic", "melee", "fishbowl", "demon", "emblem", "owner", "backer", "quorum", "table", "countess", "hammock", "moisture", "reaper", "warden", "playroom", "medal", "throttle", "approach", "liver", "crankshaft", "attack", "frailty", "infant", "respite", "berry", "ambush", "ambush", "lackey", "crisis", "reader", "descent", "syringe", "exam", "salad", "shearing", "elbow", "seedling", "implant", "loner", "mirror", "maker", "loner", "device", "sharpness", "ingot", "discharge", "blackjack", "unrest", "contour", "parcel", "hero"
+	],
+	"<3>": [
+		"sunrises", "pheasant farms", "people farms", "samurai"
+	],
+	"<4>": [
+		"aluminum", "yakitori", "the east village", "west of the sun"
+	],
+	"<5>": [
+		"resolutional"
+	]
+}
